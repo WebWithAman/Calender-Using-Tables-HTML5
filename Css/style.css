@@ -13,6 +13,21 @@
     box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: 0 0 .4rem rgba(0, 0, 0, 0.288) inset;
+  background-color: var(--white);
+  border-radius: 5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--headBg);
+  border-radius: 7rem;
+}
+
 html {
     font-size: 62.5%;
     /* Now 1rem = 10px */

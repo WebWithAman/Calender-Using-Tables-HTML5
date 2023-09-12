@@ -10,7 +10,7 @@ This is a static calendar created using only HTML tables and designed using CSS.
 
 ## Installation
 
-To install this project, you need to have Git installed on your computer. You can download Git from [here].
+To install this project, you need to have Git installed on your computer. 
 
 Then, you need to clone this repo to your local machine using the following command:
 
